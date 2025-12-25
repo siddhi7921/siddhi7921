@@ -30,7 +30,7 @@ I believe in **continuous learning, collaboration, and open-source contribution*
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/siddhinathchakraborty423)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/siddhinath-chakraborty-53177a335)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:siddhinathchakraborty792@gmail.com)
-
+🌐 Website: https://cse-aiml-siddhi-portfolio-423.created.app
 ---
 
 ## 💻 Tech Stack:-
@@ -56,10 +56,3 @@ I believe in **continuous learning, collaboration, and open-source contribution*
 
 ---
 
-If you want, I can:
-✔ Add **donation/support section**
-✔ Optimize for **recruiters**
-✔ Make a **minimal / premium version**
-✔ Add **AI-ML focused badges**
-
-Just tell me 👍
