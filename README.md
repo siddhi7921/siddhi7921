@@ -23,7 +23,7 @@ I believe in **continuous learning, collaboration, and open-source contribution*
 ## 🤝 Let’s Connect:-
 * **LinkedIn:** [https://www.linkedin.com/in/siddhinath-chakraborty-53177a335](https://www.linkedin.com/in/siddhinath-chakraborty-53177a335)
 * **Email:** [siddhinathchakraborty792@gmail.com](mailto:siddhinathchakraborty792@gmail.com)
-* **🌐 Website:** https://cse-aiml-siddhi-portfolio-423.created.app
+* **🌐 Website:**https://siddhiteam.netlify.app/
 ---
 
 ## 🌐 Socials:-
